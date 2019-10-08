@@ -8,7 +8,7 @@ body {
 
 .images {
     background: blue;
-    flex: 0 0 80%;
+    flex: 0 0 50%;
     min-height: 70vh;
     background: url("img/img-0.jpg") center/cover no-repeat;
     border-radius: 15px;
@@ -21,7 +21,7 @@ body {
     display: inline-block;
     background: white;
     color: black;
-    border: 3px solid green;
+    border: 3px solid dodgerblue;
     font-size: 1.5rem;
     padding: 0.5rem;
     border-radius: 10%;
@@ -33,7 +33,7 @@ body {
     box-shadow: 1px 1px grey;
 }
 .btn:hover {
-    background: green;
+    background: darkgreen;
     color: white;
 }
 
