@@ -1,6 +1,8 @@
 const nextBtn = document.querySelector('.nextBtn');
 const prevBtn = document.querySelector('.prevBtn');
 const container = document.querySelector('.images');
+console.log("Hello");
+
 let arrayPhotos = [
   'img/img-0', 'img/img-1', 'img/img-2',  'img/img-3',  'img/img-4',  'img/img-5',  'img/img-6'
 ];
